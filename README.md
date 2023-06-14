@@ -8,7 +8,6 @@ This repository contains a simple information retrieval system that allows users
 
 - [Getting Started](#getting-started)
 - [implementation](#implementationl)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
